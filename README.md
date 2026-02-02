@@ -2,5 +2,5 @@
 
 
 Jalil Rodriguez,age:21,major:comp sci
-Louis Spann 
+Louis Spann, major:comp sci 
 
